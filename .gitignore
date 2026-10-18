@@ -1,0 +1,21 @@
+config.json
+access.json
+state.json
+state.json.bak
+state.json.tmp
+bot.log*
+
+# Віртуальне оточення Python
+venv/
+.venv/
+env/
+
+# Кеш та компіляція
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Артефакти збірки PyInstaller
+build/
+dist/
+*.spec
