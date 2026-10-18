@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+pystray
+pillow
+tzdata; sys_platform == "win32"

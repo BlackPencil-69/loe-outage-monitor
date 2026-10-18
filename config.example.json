@@ -1,0 +1,10 @@
+{
+  "BOT_TOKEN": "PUT_YOUR_BOT_TOKEN_HERE",
+  "ADMIN_ID": "PUT_YOUR_TELEGRAM_ID_HERE",
+  "CHAT_ID": "",
+  "CHECK_INTERVAL_SECONDS": 60,
+  "API_URL": "https://api.loe.lviv.ua/api/menus?page=1&type=photo-grafic",
+  "SITE_URL": "https://poweron.loe.lviv.ua/",
+  "STATE_RETENTION_DAYS": 7,
+  "CONFIG_VERSION": 2
+}
